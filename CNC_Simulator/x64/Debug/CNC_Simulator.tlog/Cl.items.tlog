@@ -1,0 +1,12 @@
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\src\BoundingBox.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\BoundingBox.obj
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\src\CNC_Simulator.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\CNC_Simulator.obj
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\src\Intersector.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\Intersector.obj
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\src\main.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\main.obj
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\src\OBJReader.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\OBJReader.obj
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\src\OpenglWidget.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\OpenglWidget.obj
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\src\PathCreator.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\PathCreator.obj
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\src\STLWriter.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\STLWriter.obj
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\src\Writer.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\Writer.obj
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\qt\rcc\qrc_CNC_Simulator.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\qrc_CNC_Simulator.obj
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\qt\moc\moc_CNC_Simulator.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\moc_CNC_Simulator.obj
+E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\qt\moc\moc_OpenglWidget.cpp;E:\ManavWorkspace\CNC__simulator\CNC_Simulator\x64\Debug\moc_OpenglWidget.obj
